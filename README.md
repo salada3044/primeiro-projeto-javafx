@@ -2,6 +2,10 @@
 
 Projeto desenvolvido em Java utilizando JavaFX.
 
+## 📷 Preview da Aplicação
+
+![Preview do Projeto](assets/print.png)
+
 ## Sobre o projeto
 
 Aplicação desktop que calcula o IMC (Índice de Massa Corporal) com base em peso e altura informados pelo usuário.
